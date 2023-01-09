@@ -19,7 +19,7 @@ std::cout<<"hello Word!";
 Hi there, i'm **ascii5**.<br />
 A comptuer science student.<br />
 I love my major.<br />
-And i belive i will go further down this road.
+And i belive i will go further down this road.<br />
 ![](https://github-readme-stats.vercel.app/api?username=ascii5)
 ## skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,qt,cpp,c,linux,ps,visualstudio,vscode)](https://skillicons.dev)

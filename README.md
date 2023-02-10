@@ -22,7 +22,7 @@ I love my major.<br />
 And i belive i will go further down this road.<br />
 ![](https://github-readme-stats.vercel.app/api?username=ascii5)
 ## skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,qt,cpp,c,linux,ps,visualstudio,vscode,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,qt,cpp,c,linux,ps,visualstudio,vscode,py,git,cmake)](https://skillicons.dev)
 ## contact
 Gmail:3261580244g@gmail.com
 ## motto
